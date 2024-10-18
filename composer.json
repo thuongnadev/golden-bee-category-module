@@ -40,5 +40,10 @@
     "repository": {
         "type": "vcs",
         "url": "https://github.com/thuongnadev/golden-bee-category-module.git"
+    },
+    "config": {
+        "allow-plugins": {
+            "joshbrw/laravel-module-installer": true
+        }
     }
 }
