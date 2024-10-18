@@ -38,7 +38,7 @@
     ],
     "homepage": "https://github.com/thuongnadev/golden-bee-category-module",
     "repository": {
-        "type": "git",
+        "type": "vcs",
         "url": "https://github.com/thuongnadev/golden-bee-category-module.git"
     }
 }
