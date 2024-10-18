@@ -2,7 +2,7 @@
     "name": "golden-bee/category",
     "type": "laravel-module",
     "description": "A Laravel module for managing categories",
-    "version": "1.0.0",
+    "version": "1.2.0",
     "license": "MIT",
     "authors": [
         {
@@ -29,7 +29,7 @@
     "require-dev": {
         "joshbrw/laravel-module-installer": "^2.0"
     },
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "prefer-stable": true,
     "keywords": [
         "laravel",
