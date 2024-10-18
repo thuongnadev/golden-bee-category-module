@@ -1,0 +1,44 @@
+{
+    "name": "golden-bee/category",
+    "type": "laravel-module",
+    "description": "A Laravel module for managing categories",
+    "version": "1.0.0",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Golden BEE",
+            "email": "support@goldenbeeltd.vn"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {}
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Category\\": ""
+        }
+    },
+    "require": {
+        "php": "^7.4|^8.0",
+        "laravel/framework": "^8.0|^9.0|^10.0",
+        "codewithdennis/filament-select-tree": "^3.1"
+    },
+    "require-dev": {
+        "joshbrw/laravel-module-installer": "^2.0"
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true,
+    "keywords": [
+        "laravel",
+        "module",
+        "category"
+    ],
+    "homepage": "https://github.com/thuongnadev/golden-bee-category-module",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/thuongnadev/golden-bee-category-module.git"
+    }
+}
